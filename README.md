@@ -1,5 +1,5 @@
 # Hacktoberfest
-**Hacktoberfest is in full swing
+**Hacktoberfest is in full swing**
 Support open source and earn a limited edition T-shirt.
 [Click Here to get Started](https://hacktoberfest.digitalocean.com/)
 Hacktoberfest is a month-long celebration of open source software in partnership with GitHub.
@@ -16,4 +16,4 @@ Rules
 
 To get a shirt, you must make four pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself. Pull requests reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt.
 
-***Have questions? Get in touch with our team by sending an email to hacktoberfest@digitalocean.com.
+***Have questions? Get in touch with our team by sending an email to hacktoberfest@digitalocean.com.***
